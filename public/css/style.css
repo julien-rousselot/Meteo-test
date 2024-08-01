@@ -1,0 +1,41 @@
+body {
+    background-color: #a8dadc;
+    color: #1d3557;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+}
+
+h1{
+    margin-bottom: 6rem ;
+}
+
+.btn-weather{
+    background-color: #e63946;
+    border-radius: 5px;
+    border: solid 1px #457b9d;
+    color: #f1faee;
+}
+
+input {
+    border-radius: 8px;
+    border: solid 1px #457b9d;
+    padding-left: 0.5rem;
+}
+
+.data{
+    background-color: #f1faee;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15rem;
+    border-radius: 5px;
+    padding: 1rem;
+}
+
+img{
+    width: 4rem;
+}
